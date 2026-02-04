@@ -125,7 +125,7 @@ a {
   display: block;
   width: 94px;
   height: 94px;
-  background-image: url('/img/illust_img/2.svg');
+  background-image: url('../img/illust_img/2.svg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -140,7 +140,7 @@ a {
   display: block;
   width: 94px;
   height: 94px;
-  background-image: url('/img/illust_img/4.svg');
+  background-image: url('../img/illust_img/4.svg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -168,7 +168,7 @@ a {
   content: "";
   width: 94px;
   height: 94px;
-  background-image: url('/img/illust_img/1.svg');
+  background-image: url('../img/illust_img/1.svg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;  
@@ -206,7 +206,7 @@ a {
   content: "";
   width: 94px;
   height: 94px;
-  background-image: url('/img/illust_img/3.svg');
+  background-image: url('../img/illust_img/3.svg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;  
@@ -262,7 +262,7 @@ a {
   content: "";
   width: 94px;
   height: 94px;
-  background-image: url('/img/illust_img/5.svg');
+  background-image: url('../img/illust_img/5.svg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;  
@@ -277,7 +277,7 @@ a {
   display: block;
   width: 94px;
   height: 94px;
-  background-image: url('/img/illust_img/6.svg');
+  background-image: url('../img/illust_img/6.svg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -292,7 +292,7 @@ a {
   display: block;
   width: 94px;
   height: 94px;
-  background-image: url('/img/illust_img/8.svg');
+  background-image: url('../img/illust_img/8.svg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -355,7 +355,7 @@ a {
   content: "";
   width: 94px;
   height: 94px;
-  background-image: url('/img/illust_img/7.svg');
+  background-image: url('../img/illust_img/7.svg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;  
@@ -423,7 +423,7 @@ a {
   content: "";
   width: 94px;
   height: 94px;
-  background-image: url('/img/illust_img/9.svg');
+  background-image: url('../img/illust_img/9.svg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;  
@@ -438,7 +438,7 @@ a {
   display: block;
   width: 94px;
   height: 94px;
-  background-image: url('/img/illust_img/10.svg');
+  background-image: url('../img/illust_img/10.svg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
