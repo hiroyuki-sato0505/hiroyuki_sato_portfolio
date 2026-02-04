@@ -20,7 +20,6 @@ li {
 
 a {
   text-decoration: none;
-  color: var(--color-text);
 }
 
 .header-wrap {
@@ -81,6 +80,10 @@ a {
   min-height: 700px;
   padding: 0 158px;
   position: relative;
+}
+
+.header a {
+  color: var(--color-text);
 }
 
 .header-logo {
@@ -508,6 +511,11 @@ a {
   text-align: center;
   color: var(--color-footer);
 }
+
+.footer a {
+  color: var(--color-footer);
+}
+
 
 .ft-list {
   display: flex;
